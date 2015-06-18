@@ -251,3 +251,8 @@ a {
       width:100%;
 
     }
+
+    #navbar
+    {text-align:center;
+      list-style:none;
+    }
