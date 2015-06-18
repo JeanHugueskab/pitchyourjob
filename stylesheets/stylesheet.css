@@ -252,7 +252,13 @@ a {
 
     }
 
-    #navbar
+    #navbar,#home
     {text-align:center;
       list-style:none;
+    }
+
+    .img
+    {
+    
+      border-radius: 25px;
     }
