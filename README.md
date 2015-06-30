@@ -7,3 +7,5 @@ Le concept, un Rendez-vous ponctuel où un invité vient échanger avec les appr
 
 La thématique de chacune des interventions est définie dans l'objectif d'accompagner les apprenants à trouver leur dream job en sortant de la formation.
 
+Liens : 
+http://jeanhugueskab.github.io/pitchyourjob/
